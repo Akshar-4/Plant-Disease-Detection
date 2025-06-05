@@ -1,4 +1,6 @@
 # Plant-Disease-Detection
+Before running, please install the dataset via: https://www.kaggle.com/datasets/emmarex/plantdisease
+
 Hello Everyone,
 I'm presenting a plant disease detection program coded in Python.
 Note: It can only analyze pictures of leaves of tomatoes, potatoes, and bell peppers.
