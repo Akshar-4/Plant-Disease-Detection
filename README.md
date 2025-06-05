@@ -1,5 +1,5 @@
 # Plant-Disease-Detection
-Before running, please install the dataset via: https://www.kaggle.com/datasets/emmarex/plantdisease
+Dataset used: https://www.kaggle.com/datasets/emmarex/plantdisease
 
 Hello Everyone,
 I'm presenting a plant disease detection program coded in Python.
