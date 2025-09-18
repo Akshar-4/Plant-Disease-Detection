@@ -19,4 +19,13 @@ streamlit: Used for building the web interface
 
 Kaggle was used for the dataset (Plant Village)
 
-I hope to integrate it with IoT Sensors, which will consider factors such as rainfall, soil moisture levels, soil quality index, temperature and humidity to predict the yield of a certain field.
+*UPDATE* 
+The AI Model was integrated with IoT Sensors.
+Following Components were used:
+  DHT22
+  Soil Moisture Sensor Module
+  L298N Motor Driver
+  DC Motor + Wheels
+  Arduino UNO R3
+
+The Project was showcased
