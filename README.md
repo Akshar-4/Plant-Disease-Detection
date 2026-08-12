@@ -1,4 +1,4 @@
-# Plant-Disease-Detection
+# FarmIQ
 Dataset used: https://www.kaggle.com/datasets/emmarex/plantdisease
 
 Hello Everyone,
